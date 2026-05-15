@@ -1,4 +1,4 @@
-# 
+# vip NFT Arbitrage Bot for nft sniper bot | metadata-parsing & wash-trading-detection offers the most advanced nft sniper bot, with metadata-parsing and wash-trading-detection.
 
 
 
